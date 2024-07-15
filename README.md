@@ -53,4 +53,7 @@ CyberGuardAI/
 └── setup.py
 ```
 
+![Default_CyberGuardAI_uma_ferramenta_de_segurana_ciberntica_ba_1](https://github.com/user-attachments/assets/95c3070b-d8d1-443c-84c2-da747ca4e348)
+
+
 [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
