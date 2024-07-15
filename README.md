@@ -53,6 +53,4 @@ CyberGuardAI/
 └── setup.py
 ```
 
-## 💭 Reflexão (Opcional)
-
-Comente sobre o desafio de criar algo 'natty' com IA.
+[DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
